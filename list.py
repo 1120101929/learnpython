@@ -1,0 +1,12 @@
+classmates = ["Michael", "Bob", "Tracy"];
+print(classmates);
+print(len(classmates));
+classmates.append("Adam");
+print(classmates);
+print(len(classmates));
+classmates.insert(1, "Jack");
+print(classmates);
+print(len(classmates));
+print(classmates.pop());
+print(classmates);
+print(len(classmates));
